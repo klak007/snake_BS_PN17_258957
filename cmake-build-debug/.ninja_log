@@ -1,0 +1,23 @@
+# ninja log v5
+3	1209	7086424889585111	CMakeFiles/untitled1.dir/main.cpp.obj	36da0f50ddfca844
+1249	1356	7086425141109811	untitled1.exe	3ae5f5b4847fc92d
+3	1248	7086425140057050	CMakeFiles/untitled1.dir/game.cpp.obj	29a89deb437359e0
+4	1210	7086426272590687	CMakeFiles/untitled1.dir/main.cpp.obj	36da0f50ddfca844
+11	1326	7086426273738520	CMakeFiles/untitled1.dir/game.cpp.obj	29a89deb437359e0
+1326	1432	7086426274778428	untitled1.exe	3ae5f5b4847fc92d
+3	1623	7086426927399673	CMakeFiles/untitled1.dir/game.cpp.obj	29a89deb437359e0
+1624	1761	7086426928827364	untitled1.exe	3ae5f5b4847fc92d
+3	1235	7086430828284772	CMakeFiles/untitled1.dir/main.cpp.obj	36da0f50ddfca844
+12	1334	7086430829259941	CMakeFiles/untitled1.dir/game.cpp.obj	29a89deb437359e0
+1334	1441	7086430830315032	untitled1.exe	3ae5f5b4847fc92d
+3	1455	7086434653487600	CMakeFiles/untitled1.dir/main.cpp.obj	36da0f50ddfca844
+12	1587	7086434654807518	CMakeFiles/untitled1.dir/game.cpp.obj	29a89deb437359e0
+1587	1695	7086434655856800	untitled1.exe	3ae5f5b4847fc92d
+3	1283	7086439145167443	CMakeFiles/untitled1.dir/main.cpp.obj	36da0f50ddfca844
+10	1430	7086439146635944	CMakeFiles/untitled1.dir/game.cpp.obj	29a89deb437359e0
+1430	1544	7086439147749856	untitled1.exe	3ae5f5b4847fc92d
+3	1263	7086441484922310	CMakeFiles/untitled1.dir/main.cpp.obj	36da0f50ddfca844
+10	1387	7086441486155134	CMakeFiles/untitled1.dir/game.cpp.obj	29a89deb437359e0
+1387	1496	7086441487218921	untitled1.exe	3ae5f5b4847fc92d
+3	1416	7086443295280356	CMakeFiles/untitled1.dir/game.cpp.obj	29a89deb437359e0
+1417	1525	7086443296342643	untitled1.exe	3ae5f5b4847fc92d
